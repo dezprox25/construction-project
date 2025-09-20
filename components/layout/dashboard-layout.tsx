@@ -494,7 +494,7 @@ export default function DashboardLayout({
         <main
           className="flex-1 overflow-auto p-6"
           style={{
-            backgroundImage: `url(${backgroundImage || '/virukshaa3.png'})`,
+            backgroundImage: `url(${backgroundImage || '/dezprox-logo.png'})`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
           }}
