@@ -118,10 +118,10 @@ export default function LoginPage() {
       <Card className="w-full max-w-md">
         <CardHeader className="text-center">
           <div className="mx-auto mb-4 rounded-lg flex items-center justify-center">
-            <img src="/virukshaa4.png" alt="" className="h-20 " />
+            <img src="/dezproxlogo.png" alt="" className="h-20 " />
 
           </div>
-          <CardTitle className="text-2xl font-bold">Virukshaa Construction Product</CardTitle>
+          <CardTitle className="text-2xl font-bold">Dezprox Construction Product</CardTitle>
           <CardDescription>Construction Management System</CardDescription>
         </CardHeader>
         <CardContent>

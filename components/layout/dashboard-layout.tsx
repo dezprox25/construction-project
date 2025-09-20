@@ -274,8 +274,8 @@ export default function DashboardLayout({
   const Sidebar = ({ mobile = false }) => (
     <div className={`flex flex-col h-full ${mobile ? "w-full" : "w-64"} bg-[#fff0] shadow-md`}>
       <div className="flex items-center gap-0 p-6">
-        <img src="/virukshaa3.png" alt="" className="min-w-[20px] h-8" />
-        <span className="font-bold text-xl text-[#37db44]">Virukshaa</span>
+        <img src="/dezproxlogo.png" alt="" className="min-w-[20px] h-8" />
+        <span className="font-bold text-xl text-[#19ff2c]">Dezprox</span>
       </div>
 
       <nav className="flex-1 p-4 space-y-2">

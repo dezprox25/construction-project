@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: 'Virukshaa-Construction-product',
   description: 'Virukshaa by Dezprox — a modern construction management platform to streamline projects, teams, and site operations.',
   icons: {
-    icon: '/Viruksha-tab-Logo.png',
+    icon: '/dezproxlogo.png',
   },
 }
 
