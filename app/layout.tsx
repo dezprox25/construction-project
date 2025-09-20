@@ -7,8 +7,8 @@ import { ClientProvider } from '@/contexts/ClientContext'
 import ConsoleErrorSuppressor from '@/components/providers/console-error-suppressor'
 
 export const metadata: Metadata = {
-  title: 'Virukshaa-Construction-product',
-  description: 'Virukshaa by Dezprox — a modern construction management platform to streamline projects, teams, and site operations.',
+  title: 'Dezprox-Construction-product',
+  description: 'Dezprox — a modern construction management platform to streamline projects, teams, and site operations.',
   icons: {
     icon: '/dezproxlogo.png',
   },
